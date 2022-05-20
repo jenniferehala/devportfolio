@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/devportfolio/static/css/main.da10535b.css",
-    "main.js": "/devportfolio/static/js/main.d9faf6c4.js",
-    "static/media/realestate.jpg": "/devportfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/resume.pdf": "/devportfolio/static/media/resume.b2741431395085df3f10.pdf",
-    "static/media/workImg.jpeg": "/devportfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.css": "/devportfolio/static/css/main.dd639ccb.css",
+    "main.js": "/devportfolio/static/js/main.62d6dfb7.js",
+    "static/media/nutriImg.png": "/devportfolio/static/media/nutriImg.ce83a9e7bccf188501f7.png",
+    "static/media/bookReads.png": "/devportfolio/static/media/bookReads.459694adf58fca9ed7b4.png",
+    "static/media/petShelter.png": "/devportfolio/static/media/petShelter.01369fcdab00f6699865.png",
+    "static/media/resume.pdf": "/devportfolio/static/media/resume.20bd822d15ef01a3376e.pdf",
     "static/media/react.png": "/devportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/devportfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/devportfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mono2.png": "/devportfolio/static/media/mono2.3f7b9f7bb9128de557bd.png",
+    "static/media/logo.png": "/devportfolio/static/media/logo.3f7b9f7bb9128de557bd.png",
     "static/media/mongo.png": "/devportfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/devportfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/devportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -18,11 +19,11 @@
     "static/media/javascript.png": "/devportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/java.png": "/devportfolio/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/devportfolio/index.html",
-    "main.da10535b.css.map": "/devportfolio/static/css/main.da10535b.css.map",
-    "main.d9faf6c4.js.map": "/devportfolio/static/js/main.d9faf6c4.js.map"
+    "main.dd639ccb.css.map": "/devportfolio/static/css/main.dd639ccb.css.map",
+    "main.62d6dfb7.js.map": "/devportfolio/static/js/main.62d6dfb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.da10535b.css",
-    "static/js/main.d9faf6c4.js"
+    "static/css/main.dd639ccb.css",
+    "static/js/main.62d6dfb7.js"
   ]
 }
